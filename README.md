@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Vlad</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=FF3A3A&background=40FF1B00&multiline=true&width=458&height=64&lines=%D0%9F%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C+%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE+%D0%B3%D0%B8%D0%BA%D0%B0" alt="Typing SVG" /></a>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
 <h3 align="left">Connect with me:</h3>
